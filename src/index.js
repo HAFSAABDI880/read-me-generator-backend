@@ -116,7 +116,7 @@ const start = async () => {
   console.log("usage", usageAnswers);
   console.log("installation", installationAnswers);
   console.log("test", testAnswers);
-  console.log("error");
+
 
   const dataToWrite = generateReadMe(
     readMeAnswers,
