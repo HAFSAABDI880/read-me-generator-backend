@@ -4,11 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:///HAFSAABDI880/read-me-generator-backend"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com//HAFSAABDI880/read-me-generator-backend/issues"
+  },
+  "homepage": "https://github.com//HAFSAABDI880/read-me-generator-backend#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
+  
 }
