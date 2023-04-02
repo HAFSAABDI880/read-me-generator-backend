@@ -13,6 +13,11 @@ const questions = [
   },
   {
     type: "input",
+    name: "description",
+    message: "what are installation?",
+  },
+  {
+    type: "input",
     name: "contributing",
     message: "How can others contribute to your project?",
   },
